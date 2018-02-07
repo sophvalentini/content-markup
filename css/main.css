@@ -1,0 +1,17 @@
+mark {
+background-color: cyan;
+}
+
+
+ins {
+  color: #f00;
+}
+.underline {
+  text-decoration: underline;
+}
+.italic{
+  font-style: italic;
+}
+.small-caps{
+  font-variant: small-caps;
+}
